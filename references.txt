@@ -1,0 +1,3 @@
+https://www.codingthesmartway.com/how-to-use-chatgpt-with-react/
+
+https://www.codingthesmartway.com/a-beginners-guide-to-building-a-nextjs-app-with-the-openai-api/
